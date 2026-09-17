@@ -1,0 +1,6 @@
+.DS_Store
+*.asd
+**/Backup/
+**/Ableton Project Info/
+Icon?
+node_modules/

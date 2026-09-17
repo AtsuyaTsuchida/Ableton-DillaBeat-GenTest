@@ -1,0 +1,10 @@
+{
+  "name": "loop-foundry",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A four-bar sample-chop and drum generator for Ableton Live 12 and Max for Live",
+  "scripts": {
+    "test": "node tests/engine.cjs",
+    "build": "node scripts/build.mjs"
+  }
+}
